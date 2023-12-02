@@ -1,6 +1,6 @@
 # Terraform - LocalStack
 
-Segue uma abordagem de estudo bem interessante para simular serviços da AWS como também realizar uma abordagem com Iac (Terraform)
+Segue uma abordagem de estudo bem interessante para simular serviços da AWS como também realizar uma abordagem com Iac (Terraform) segue os testes.
 
 # LocalStack
 
